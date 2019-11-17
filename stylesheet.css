@@ -47,3 +47,26 @@ header{
 .top-wrapper h2{
   font-size:60px;
 }
+
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+/* <footer>の中の<img>のCSSを指定してください */
+footer img{
+ width:125px;
+}
+
+/* <footer>の中の<p>のCSSを指定してください */
+footer p{
+ color:#b3aeb5;
+ font-size:12px;
+}
+
+/* <footer>のCSSを指定してください */
+footer{
+ padding-top:30px;
+}
