@@ -41,7 +41,7 @@ header{
 }
 
 .top-wrapper img{
-  height:150px;
+  height:500px;
 }
 
 .top-wrapper h1{
@@ -51,7 +51,6 @@ header{
 .top-wrapper h2{
   font-size:60px;
 }
-
 
 .container {
   width: 1170px;
