@@ -36,3 +36,14 @@ header{
   padding:33px 20px;
 }
 
+.top-wrapper{
+  padding:100px 80px;
+}
+
+.top-wrapper h1{
+  font-size:80px;
+}
+
+.top-wrapper h2{
+  font-size:60px;
+}
