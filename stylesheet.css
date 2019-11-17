@@ -21,8 +21,8 @@ li {
 /* ここからCSSを記述してください */
 header{
   height:90px;
-  color:#4169e1;
-  background-color:#26d0c9;
+  color:white;
+  background-color:#4169e1;
 }
 
 .header-logo{
