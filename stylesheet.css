@@ -58,6 +58,10 @@ header{
   margin: 0 auto;
 }
 
+footer{
+  float: left;
+}
+
 /* <footer>の中の<img>のCSSを指定してください */
 footer img{
  width:80px;
