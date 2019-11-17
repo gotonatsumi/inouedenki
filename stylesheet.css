@@ -40,6 +40,10 @@ header{
   padding:100px 80px;
 }
 
+.top-wrapper img{
+  height:150px;
+}
+
 .top-wrapper h1{
   font-size:80px;
 }
