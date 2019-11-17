@@ -57,13 +57,13 @@ header{
 
 /* <footer>の中の<img>のCSSを指定してください */
 footer img{
- width:125px;
+ width:80px;
 }
 
 /* <footer>の中の<p>のCSSを指定してください */
 footer p{
  color:#b3aeb5;
- font-size:12px;
+ font-size:15px;
 }
 
 /* <footer>のCSSを指定してください */
