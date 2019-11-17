@@ -38,7 +38,10 @@ header{
 
 .top-wrapper{
   padding:100px 80px;
+  background-image:url(https://www.facebook.com/441234com/photos/a.238587036189520/2401279616586907/?type=3&theater);
+  color:white;
   text-align: center;
+  background-size:cover;
 }
 
 .top-wrapper img{
