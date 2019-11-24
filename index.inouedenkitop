@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>inouedenki</title>
+    <link rel="stylesheet" href="stylesheet.css1">
+  </head>
+  <body>
+    <header>
+      <div class="header-logo">INOUE DENKI</div>
+      <div class="header-list">
+      <ul>
+      <li>トピック</li>
+      <li>製品情報</li>
+      <li>サービス</li>
+      <li>会社概要</li>
+      <li>採用情報</li>
+      <li>お問い合わせ</li>
+      </ul>
+    </div>
+  </header>
+  <div class="top-wrapper">
+  <img src="https://www.facebook.com/441234com/photos/a.238587036189520/2401279616586907/?type=3&theater">
+   <h1>製品情報</h1>
+   <h2>当店で扱う商品一覧です</h2>
+   </div>
+ <div class="message-wrapper">
+     <div class="container">
+       <div class="heading">
+         <h2>鹿児島県鹿屋市で創業して〇〇年。</h2>
+         <h3>地域の皆様のお役に立てるよう邁進しています！</h3>
+       </div>
+       <span class="btn message">お問い合わせ</span>
+     </div>
+   </div>
+   <div class="btn-wrapper">
+            <a href="#" class="btn facebook">Facebook</a>
+            <a href="#" class="btn instagram">Instagram</a>
+            <a href="#" class="btn twitter">Twitter</a>
+          </div>
+  <footer>
+    <div class="container">
+      <img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/10378060_736361989745353_807617643036838508_n.jpg?_nc_cat=110&_nc_oc=AQksZfzz2CA7pnNNkKw68vivj0U_qOT2o8LG0Lan3GOCt25GbzuyheIJzyBK4b_9xKLcA-Mk5dY7QthpLuUtldfU&_nc_ht=scontent-nrt1-1.xx&oh=f38997b23f04d2631fbcaf2ddb7c72cc&oe=5E516094">
+      <p>プライバシーポリシー</p>
+    </div>
+  </footer>
+  </body>
+</html>
