@@ -1,0 +1,117 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+title {
+  color:#fff;
+}
+
+body {
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+/* ここからCSSを記述してください */
+header{
+  height:90px;
+  color:#fff;
+  background-color:#26d0c9;
+}
+
+.header-logo{
+  float:left;
+  font-size:36px;
+  padding:20px 40px;
+}
+
+.header-list li{
+  float:left;
+  padding:33px 20px;
+}
+
+.top-wrapper{
+  padding:100px 80px;
+  background-image:url(https://www.facebook.com/441234com/photos/a.238587036189520/2401279616586907/?type=3&theater);
+  color:white;
+  text-align: center;
+  background-size:cover;
+}
+
+.top-wrapper img{
+  height:150px;
+}
+
+.top-wrapper h1{
+  font-size:60px;
+}
+
+.top-wrapper h2{
+  font-size:45px;
+}
+
+.container {
+  width: 1170px;
+  padding: 80px 15px;
+  margin: 0 auto;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+/* btnクラスのCSSを指定してください */
+.btn{
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  opacity:0.8;
+}
+
+
+/* signupクラスのCSSを指定してください */
+.signup{
+  background-color:#239b76;
+}
+
+.facebook{
+  background-color:#3b5998;
+  margin-right:10px;
+}
+
+.instagram{
+ background-color:orange;
+ margin-right:10px;
+}
+
+.twitter{
+ background-color:#55acee;
+}
+
+.btn-wrapper{
+  margin:30px 0;
+}
+
+/* <footer>の中の<img>のCSSを指定してください */
+footer img{
+ width:80px;
+}
+
+/* <footer>の中の<p>のCSSを指定してください */
+footer p{
+ color:#b3aeb5;
+ font-size:18px;
+}
+
+/* <footer>のCSSを指定してください */
+footer{
+ padding-top:30px;
+}
